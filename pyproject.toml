@@ -1,0 +1,24 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "cidistance"
+version = "0.1"
+description = 'calculates the distance between two chord interpretations'
+readme = "README.md"
+requires-python = ">=3.8"
+license = "MIT"
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Programming Language :: Python",
+  "Programming Language :: Python :: 3.8",
+  "Programming Language :: Python :: 3.9",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+]
+dependencies = ["numpy", "torch", "music21"]
+
+[project.urls]
+Source = "https://github.com/kusuli/cidistance"

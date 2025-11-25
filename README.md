@@ -1,8 +1,7 @@
 # CIDistance
 Calculates the distance between two chord interpretations.
 
-This is a program implementation for https://doi.org/10.1080/09298215.2025.2523245
-
+This is a program implementation for https://doi.org/10.1080/09298215.2025.2523245 <br>
 Yamamoto, H., & Tojo, S. (2024). Effective features to define harmonic distance models. Journal of New Music Research, 53(5), 399–419. https://doi.org/10.1080/09298215.2025.2523245
 
 experiment1.py
